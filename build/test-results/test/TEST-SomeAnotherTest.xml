@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SomeAnotherTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-11-22T12:48:51" hostname="YAUHENIYATARASE" time="1.128">
+  <properties/>
+  <testcase name="check objMeth" classname="SomeAnotherTest" time="0.048"/>
+  <testcase name="check objMeth1 [b: 2, c: Sara, #0]" classname="SomeAnotherTest" time="0.0"/>
+  <testcase name="check objMeth3" classname="SomeAnotherTest" time="1.046"/>
+  <testcase name="check_test_with_parameters [a: 7, b: 7, c: 7, #0]" classname="SomeAnotherTest" time="0.001"/>
+  <testcase name="check_test_with_parameters [a: 22, b: 45, c: 22, #1]" classname="SomeAnotherTest" time="0.001"/>
+  <testcase name="check_test_with_parameters [a: -1, b: 3, c: -1, #2]" classname="SomeAnotherTest" time="0.0"/>
+  <testcase name="check_test_with_parameters [a: 0, b: 0, c: 0, #3]" classname="SomeAnotherTest" time="0.001"/>
+  <system-out><![CDATA[SomeAnotherTest.check objMeth3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
